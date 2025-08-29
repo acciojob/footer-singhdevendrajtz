@@ -54,6 +54,8 @@ a:link {
   text-decoration: none;
 }
 .link-boxes{
+	display:flex;
+	flex-direction:column;
 	position:relative;
 	top:20px;
 	color:whitesmoke;
